@@ -1,198 +1,139 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle_dark.png" alt="logo" width="200" style="border-radius: 50%;" />
 
-  # 𝐇𝐢, 𝐈'𝐦 𝐇𝐚𝐫𝐦𝐚𝐧 𝐌𝐚𝐧𝐢𝐤 👋
+  # Harman Manik
 
-  **Full Stack Developer | Privacy-First AI Enthusiast | Building Things That Matter**
+  **Full Stack Developer | AI Engineer | Privacy-First Computing**
 
-  [![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harmanmanik.com)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harman@example.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harmanmanik)
+  [Website](https://harmanmanik.com) | [Email](mailto:harman@example.com) | [LinkedIn](https://linkedin.com/in/harmanmanik)
 
-  <br/>
-
-  *Passionate about building elegant solutions to complex problems. Currently crafting privacy-first AI experiences that respect user data while delivering powerful capabilities.*
+  Building AI applications that respect user privacy through local-first architecture and ethical design principles.
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a developer who cares deeply about **privacy**, **user experience**, and **clean code**. My journey in software development has taken me from web applications to desktop AI assistants, always with a focus on creating tools that people actually want to use.
+I'm a developer focused on the intersection of AI and privacy-preserving technology. I believe the future of AI isn't just about capability it's about building systems that are powerful without being exploitative.
 
-- 💼 Currently working on **Extab** - A privacy-first AI desktop assistant
-- 🎯 Interested in Rust, TypeScript, and the future of local AI
-- 🌱 Always learning, always building
-- 💡 Believer in open source and ethical technology
+Currently building **Extab** - a privacy-first AI desktop assistant that runs locally, processes data on-device, and gives users full control over their information. My work combines modern frontend frameworks with systems-level programming to create applications that feel magical while respecting fundamental rights to privacy.
 
 ---
 
-## 🏆 GitHub Achievements & Trophies
+## AI Focus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harman206&no-bg=true&no-frame=true&margin-w=15&theme=gruvbox" alt="GitHub Trophies" />
-</p>
+My work centers on making AI more accessible, private, and useful in daily life:
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harman206&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&bg_color=1E1E1E&title_color=FBF1C7&icon_color=EBDBB2&text_color=EBDBB2&border_color=282828" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harman206&layout=compact&langs_count=8&theme=gruvbox&hide_border=true&bg_color=1E1E1E&title_color=FBF1C7&icon_color=EBDBB2&text_color=EBDBB2" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harman206&theme=gruvbox&hide_border=true&background=1E1E1E&stroke=EBDBB2&ring=FBF1C7&fire=CC241D&currStreakLabel=FBF1C7" alt="GitHub Streak" />
-</p>
+- **Local-First AI**: Building applications that process AI workloads locally whenever possible
+- **Privacy Architecture**: Designing systems that minimize data collection and maximize user control
+- **Multimodal AI**: Working with text, voice, image capture, and system audio integration
+- **Desktop AI Agents**: Creating always-available AI assistants through global shortcuts and intelligent background processing
+- **AI Integration Patterns**: Developing best practices for integrating LLMs and transcription services into applications
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack
 
-### Frontend Development
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### AI & Machine Learning
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com)
+[![Whisper](https://img.shields.io/badge/Whisper-4285F4?style=flat)](https://github.com/openai/whisper)
 
-### Backend & Systems
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Frontend
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+
+### Systems & Backend
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 
 ### Desktop & Mobile
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=000000)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=000000)](https://tauri.app)
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)](https://swift.org)
 
 ---
 
-## 📁 Featured Projects
+## Projects
 
-<table>
-<tr>
-<td width="50%">
+### Extab - Privacy-First AI Desktop Assistant
 
-### 🤖 Extab
-[![Stars](https://img.shields.io/github/stars/Harman206/Extab-v2?style=social)](https://github.com/Harman206/Extab-v2)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/Harman206/Extab-v2)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://github.com/Harman206/Extab-v2)
+[TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat) [Rust](https://img.shields.io/badge/Rust-000000?style=flat) [Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat)
 
-A privacy-first AI desktop assistant built with **Tauri v2**, **React**, and **Rust**. Features global shortcuts, screenshot capture, system audio transcription, and local-first architecture.
+A desktop AI assistant built with Tauri v2, React, and Rust. Extab provides instant access to AI through global shortcuts, featuring:
 
-[View Project →](https://github.com/Harman206/Extab-v2)
+- **Screenshot Capture**: Instantly capture and analyze screen content
+- **System Audio Transcription**: Record and transcribe system audio using Whisper
+- **Voice Activity Detection**: Smart voice recording with automatic silence detection
+- **Cross-Platform Audio**: Platform-specific implementations for macOS, Windows, and Linux
+- **Privacy Architecture**: Local-first design with secure credential storage
+- **Streaming Responses**: Real-time AI responses via server-sent events
 
-</td>
-<td width="50%">
-
-### 🌐 Extab Website
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/Harman206/extabwebsite)
-
-Official website for Extab - showcasing the privacy-first AI assistant with modern web technologies.
-
-[View Project →](https://github.com/Harman206/extabwebsite)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📱 MuDining
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)](https://github.com/Harman206/mudining)
-
-A dining application built with Swift, helping users discover and explore dining options.
-
-[View Project →](https://github.com/Harman206/mudining)
-
-</td>
-<td width="50%">
-
-### 🎨 Origins of AI
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/Harman206/originsofaiproject)
-
-An educational project exploring the origins and development of artificial intelligence.
-
-[View Project →](https://github.com/Harman206/originsofaiproject)
-
-</td>
-</tr>
-</table>
+[View Project](https://github.com/Harman206/Extab-v2)
 
 ---
 
-## 📈 Activity Graph
+### Extab Website
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harman206&theme=gruvbox&bg_color=1E1E1E&color=EBDBB2&line=FBF1C7&point=CC241D&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+[TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat) [React](https://img.shields.io/badge/React-20232A?style=flat)
+
+The official web presence for Extab, showcasing the privacy-first AI assistant to the world.
+
+[View Project](https://github.com/Harman206/extabwebsite)
 
 ---
 
-## 💬 Current Focus
+### Origins of AI
 
-```yaml
-Current Interests:
-  - Privacy-Preserving AI
-  - Local-First Applications
-  - Cross-Platform Desktop Development
-  - Rust Ecosystem
-  - WebAssembly
+An educational exploration of AI's history and evolution, examining the key developments and breakthroughs that shaped modern artificial intelligence.
 
-Learning:
-  - Advanced Tauri Patterns
-  - AI/ML Integration
-  - System-level Audio Processing
+[View Project](https://github.com/Harman206/originsofaiproject)
+
+---
+
+### MuDining
+
+[Swift](https://img.shields.io/badge/Swift-FA7343?style=flat)
+
+A mobile application for discovering and exploring dining options, built with native iOS technologies.
+
+[View Project](https://github.com/Harman206/mudining)
+
+---
+
+## Current Focus
+
+```
+Privacy-Preserving AI Architecture
+- Local LLM integration
+- On-device speech recognition
+- Secure credential management
+- Data minimization strategies
+
+Cross-Platform Development
+- Advanced Tauri patterns
+- Platform-specific audio capture (ScreenCaptureKit, WASAPI, PulseAudio)
+- Native macOS window management
+
+AI Integration Patterns
+- Streaming responses
+- Multimodal input handling
+- Background task processing
 ```
 
 ---
 
-## 🤝 Let's Connect!
+## Connect
 
-I'm always interested in collaborating on interesting projects and meeting fellow developers. Feel free to reach out!
+I'm interested in collaborating on privacy-focused AI projects, local-first applications, and anything that pushes the boundaries of what's possible with ethical technology.
 
-<p align="center">
-  <a href="https://github.com/Harman206">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:harman@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/harmanmanik">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[GitHub](https://github.com/Harman206) | [Email](mailto:harman@example.com) | [LinkedIn](https://linkedin.com/in/harmanmanik)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harman206&style=for-the-badge&color=CC241D" alt="Profile Views" />
 
-  <br/>
+  [Harman Manik](https://github.com/Harman206)
 
-  *⚡ Fun fact: I believe the best code is the code that respects user privacy while delivering amazing experiences.*
-
-  <br/>
-  <br/>
-
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/harman206)
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/images/margin.svg" alt="divider" width="100%" />
-</p>
-
-<div align="center">
-  <sub>Crafted with ❤️ by <a href="https://github.com/Harman206">Harman Manik</a></sub>
 </div>
