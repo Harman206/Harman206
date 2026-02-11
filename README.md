@@ -20,13 +20,38 @@ I'm passionate about multi-persona AI systems, adaptive learning, and technologi
 
 ---
 
-## Top Languages
+## Top Languages & Skills
 
+### AI / ML
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![LangChain](https://img.shields.io/badge/LangChain-1C2B33?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C2B33?style=for-the-badge)](https://langchain-ai.github.io/langgraph)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1C2B33?style=for-the-badge)](https://llamaindex.ai)
+[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io)
+[![FAISS](https://img.shields.io/badge/FAISS-4C2A99?style=for-the-badge)](https://github.com/facebookresearch/faiss)
+
+### Frontend
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)](https://ui.shadcn.com)
+
+### Backend & Systems
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+
+### Mobile
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
+
+### Data
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org)
 
 ---
 
@@ -65,7 +90,7 @@ An AI productivity overlay agent for instant planning, recall, and task executio
 - Local-first architecture with secure credential storage
 - Real-time AI responses via streaming
 
-[View Project](https://github.com/Harman206/Extab-v2)
+[tryextab.com](https://tryextab.com)
 
 ---
 
@@ -76,25 +101,6 @@ Co-developed an AR-based distracted-driving safety solution.
 - Led product design and pitch strategy
 - Developed impact framework
 - AR integration for real-time driver monitoring
-
----
-
-## Skills
-
-### AI & Machine Learning
-[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat) [LangChain](https://img.shields.io/badge/LangChain-1C2B33?style=flat) [LangGraph](https://img.shields.io/badge/LangGraph-1C2B33?style=flat) [LlamaIndex](https://img.shields.io/badge/LlamaIndex-1C2B33?style=flat) [Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat) [Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-1C2B33?style=flat) [spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat) [FAISS](https://img.shields.io/badge/FAISS-4C2A99?style=flat)
-
-### Frontend & Web
-[TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat) [React](https://img.shields.io/badge/React-20232A?style=flat) [Next.js](https://img.shields.io/badge/Next.js-000000?style=flat) [Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat) [shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat)
-
-### Systems & Backend
-[Rust](https://img.shields.io/badge/Rust-000000?style=flat) [Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat) [Python](https://img.shields.io/badge/Python-3776AB?style=flat)
-
-### Mobile
-[Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat) [Swift](https://img.shields.io/badge/Swift-FA7343?style=flat) [Android](https://img.shields.io/badge/Android-3DDC84?style=flat)
-
-### Data & Clustering
-[Pandas](https://img.shields.io/badge/Pandas-150458?style=flat) [NumPy](https://img.shields.io/badge/NumPy-013243?style=flat) [HDBSCAN](https://img.shields.io/badge/HDBSCAN-1C2B33?style=flat) [KMeans](https://img.shields.io/badge/KMeans-1C2B33?style=flat)
 
 ---
 
