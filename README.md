@@ -16,7 +16,17 @@
 
 Data Science & AI student at Masters Union (2025-2029) focused on building AI-driven productivity tools and assistive technologies. I founded Extab to create privacy-first AI experiences and am now building Clippy.
 
-I'm passionate about multi-persona AI systems, adaptive learning, and technologies that make a measurable difference in people's lives. My work spans from desktop AI agents to assistive platforms for children with ADHD & ASD.
+I'm passionate about multi-persona AI systems, adaptive learning, and technologies that make a measurable difference in people's lives.
+
+---
+
+## Top Languages
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
 
 ---
 
@@ -59,17 +69,6 @@ An AI productivity overlay agent for instant planning, recall, and task executio
 
 ---
 
-### MastIQsh (Copyright Granted)
-
-Assistive learning and wellness platform for children with ADHD & ASD.
-
-- Adaptive learning algorithms that adjust to individual needs
-- Speech-to-text interaction for accessibility
-- Creativity tools designed for neurodivergent learners
-- Copyright granted for original educational framework
-
----
-
 ### EcoTeck
 
 Co-developed an AR-based distracted-driving safety solution.
@@ -99,29 +98,9 @@ Co-developed an AR-based distracted-driving safety solution.
 
 ---
 
-## Experience
-
-### Founder - Extab
-*November 2025 - Present*
-
-Building an AI productivity overlay agent. Leading product architecture and outreach.
-
-### Intern - Infinia Solar
-*June 2025*
-
-Automated CRM and marketing operations using AI tools. Implemented various AI solutions to maximize productivity and save time.
-
-### Design Engineer - Novashield
-*September 2024*
-
-Top 45 of 20,000+ in Aerospace & Aviation. Engineered the Pumpkin Structure capsule for safe space exploration. Earned $30,000+ scholarship opportunities.
-
----
-
 ## Awards
 
 - **Conrad Innovator Award** - Top 45 teams (among 20,000+) in Aerospace & Aviation
-- **National Case Competition Winner** - Hosted by NCSC and IITK
 - **Shape The Future Challenge** - 2nd place out of 180+ teams and 1,300+ applicants, hosted by Moonshot Pirates
 
 ---
