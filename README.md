@@ -2,11 +2,11 @@
 
   # Harman Manik
 
-  **Full Stack Developer | AI Engineer | Privacy-First Computing**
+  **AI Engineer | Founder | Data Science & AI Student at Masters Union**
 
-  [Website](https://harmanmanik.com) | [Email](mailto:harman@example.com) | [LinkedIn](https://linkedin.com/in/harmanmanik)
+  [harmanmanik2506@gmail.com](mailto:harmanmanik2506@gmail.com) | [LinkedIn](https://linkedin.com/in/harmanmanik) | [GitHub](https://github.com/Harman206)
 
-  Building AI applications that respect user privacy through local-first architecture and ethical design principles.
+  Building AI-driven and assistive technologies. Currently working on Clippy, an AI productivity platform.
 
 </div>
 
@@ -14,44 +14,9 @@
 
 ## About
 
-I'm a developer focused on the intersection of AI and privacy-preserving technology. I believe the future of AI isn't just about capability it's about building systems that are powerful without being exploitative.
+Data Science & AI student at Masters Union (2025-2029) focused on building AI-driven productivity tools and assistive technologies. I founded Extab to create privacy-first AI experiences and am now building Clippy.
 
-Currently building **Clippy** ([tryclippy.com](https://tryclippy.com)) and **Extab** - AI-powered tools that enhance productivity while respecting user privacy. My work combines modern frontend frameworks with systems-level programming to create applications that feel magical while respecting fundamental rights to privacy.
-
----
-
-## AI Focus
-
-My work centers on making AI more accessible, private, and useful in daily life:
-
-- **Local-First AI**: Building applications that process AI workloads locally whenever possible
-- **Privacy Architecture**: Designing systems that minimize data collection and maximize user control
-- **Multimodal AI**: Working with text, voice, image capture, and system audio integration
-- **Desktop AI Agents**: Creating always-available AI assistants through global shortcuts and intelligent background processing
-- **AI Integration Patterns**: Developing best practices for integrating LLMs and transcription services into applications
-
----
-
-## Tech Stack
-
-### AI & Machine Learning
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com)
-[![Whisper](https://img.shields.io/badge/Whisper-4285F4?style=flat)](https://github.com/openai/whisper)
-
-### Frontend
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-
-### Systems & Backend
-[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-
-### Desktop & Mobile
-[![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=000000)](https://tauri.app)
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)](https://swift.org)
+I'm passionate about multi-persona AI systems, adaptive learning, and technologies that make a measurable difference in people's lives. My work spans from desktop AI agents to assistive platforms for children with ADHD & ASD.
 
 ---
 
@@ -61,9 +26,20 @@ My work centers on making AI more accessible, private, and useful in daily life:
 
 [tryclippy.com](https://tryclippy.com) | [TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat)
 
-Currently building Clippy - an AI-powered productivity assistant. More details coming soon.
+Currently building Clippy - an AI-powered productivity assistant.
 
 [Visit Website](https://tryclippy.com)
+
+---
+
+### cIAo - AI Executive Advisory Platform
+
+Built an AI boardroom simulation tool that enables entrepreneurs and business leaders to receive strategic guidance from virtual C-suite executives.
+
+- Multi-persona reasoning with real-time streaming responses
+- Document-aware context retrieval
+- Adaptive tone based on user sentiment
+- Reduces advisory costs while providing instant, multi-perspective business analysis
 
 ---
 
@@ -71,74 +47,96 @@ Currently building Clippy - an AI-powered productivity assistant. More details c
 
 [TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat) [Rust](https://img.shields.io/badge/Rust-000000?style=flat) [Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat)
 
-A desktop AI assistant built with Tauri v2, React, and Rust. Extab provides instant access to AI through global shortcuts, featuring:
+An AI productivity overlay agent for instant planning, recall, and task execution.
 
-- **Screenshot Capture**: Instantly capture and analyze screen content
-- **System Audio Transcription**: Record and transcribe system audio using Whisper
-- **Voice Activity Detection**: Smart voice recording with automatic silence detection
-- **Cross-Platform Audio**: Platform-specific implementations for macOS, Windows, and Linux
-- **Privacy Architecture**: Local-first design with secure credential storage
-- **Streaming Responses**: Real-time AI responses via server-sent events
+- Screenshot capture and screen content analysis
+- System audio transcription using Whisper
+- Voice activity detection and cross-platform audio (macOS, Windows, Linux)
+- Local-first architecture with secure credential storage
+- Real-time AI responses via streaming
 
 [View Project](https://github.com/Harman206/Extab-v2)
 
 ---
 
-### Extab Website
+### MastIQsh (Copyright Granted)
 
-[TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat) [React](https://img.shields.io/badge/React-20232A?style=flat)
+Assistive learning and wellness platform for children with ADHD & ASD.
 
-The official web presence for Extab, showcasing the privacy-first AI assistant to the world.
-
-[View Project](https://github.com/Harman206/extabwebsite)
-
----
-
-### Origins of AI
-
-An educational exploration of AI's history and evolution, examining the key developments and breakthroughs that shaped modern artificial intelligence.
-
-[View Project](https://github.com/Harman206/originsofaiproject)
+- Adaptive learning algorithms that adjust to individual needs
+- Speech-to-text interaction for accessibility
+- Creativity tools designed for neurodivergent learners
+- Copyright granted for original educational framework
 
 ---
 
-### MuDining
+### EcoTeck
 
-[Swift](https://img.shields.io/badge/Swift-FA7343?style=flat)
+Co-developed an AR-based distracted-driving safety solution.
 
-A mobile application for discovering and exploring dining options, built with native iOS technologies.
-
-[View Project](https://github.com/Harman206/mudining)
+- Led product design and pitch strategy
+- Developed impact framework
+- AR integration for real-time driver monitoring
 
 ---
 
-## Current Focus
+## Skills
 
-```
-Privacy-Preserving AI Architecture
-- Local LLM integration
-- On-device speech recognition
-- Secure credential management
-- Data minimization strategies
+### AI & Machine Learning
+[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat) [LangChain](https://img.shields.io/badge/LangChain-1C2B33?style=flat) [LangGraph](https://img.shields.io/badge/LangGraph-1C2B33?style=flat) [LlamaIndex](https://img.shields.io/badge/LlamaIndex-1C2B33?style=flat) [Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat) [Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-1C2B33?style=flat) [spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat) [FAISS](https://img.shields.io/badge/FAISS-4C2A99?style=flat)
 
-Cross-Platform Development
-- Advanced Tauri patterns
-- Platform-specific audio capture (ScreenCaptureKit, WASAPI, PulseAudio)
-- Native macOS window management
+### Frontend & Web
+[TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat) [React](https://img.shields.io/badge/React-20232A?style=flat) [Next.js](https://img.shields.io/badge/Next.js-000000?style=flat) [Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat) [shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat)
 
-AI Integration Patterns
-- Streaming responses
-- Multimodal input handling
-- Background task processing
-```
+### Systems & Backend
+[Rust](https://img.shields.io/badge/Rust-000000?style=flat) [Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat) [Python](https://img.shields.io/badge/Python-3776AB?style=flat)
+
+### Mobile
+[Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat) [Swift](https://img.shields.io/badge/Swift-FA7343?style=flat) [Android](https://img.shields.io/badge/Android-3DDC84?style=flat)
+
+### Data & Clustering
+[Pandas](https://img.shields.io/badge/Pandas-150458?style=flat) [NumPy](https://img.shields.io/badge/NumPy-013243?style=flat) [HDBSCAN](https://img.shields.io/badge/HDBSCAN-1C2B33?style=flat) [KMeans](https://img.shields.io/badge/KMeans-1C2B33?style=flat)
+
+---
+
+## Experience
+
+### Founder - Extab
+*November 2025 - Present*
+
+Building an AI productivity overlay agent. Leading product architecture and outreach.
+
+### Intern - Infinia Solar
+*June 2025*
+
+Automated CRM and marketing operations using AI tools. Implemented various AI solutions to maximize productivity and save time.
+
+### Design Engineer - Novashield
+*September 2024*
+
+Top 45 of 20,000+ in Aerospace & Aviation. Engineered the Pumpkin Structure capsule for safe space exploration. Earned $30,000+ scholarship opportunities.
+
+---
+
+## Awards
+
+- **Conrad Innovator Award** - Top 45 teams (among 20,000+) in Aerospace & Aviation
+- **National Case Competition Winner** - Hosted by NCSC and IITK
+- **Shape The Future Challenge** - 2nd place out of 180+ teams and 1,300+ applicants, hosted by Moonshot Pirates
+
+---
+
+## Education
+
+**Masters' Union** (2025-2029)
+- Undergraduate Programme in Data Science & Artificial Intelligence
+- Gurugram, Haryana
 
 ---
 
 ## Connect
 
-I'm interested in collaborating on privacy-focused AI projects, local-first applications, and anything that pushes the boundaries of what's possible with ethical technology.
-
-[GitHub](https://github.com/Harman206) | [Email](mailto:harman@example.com) | [LinkedIn](https://linkedin.com/in/harmanmanik)
+[harmanmanik2506@gmail.com](mailto:harmanmanik2506@gmail.com) | [LinkedIn](https://linkedin.com/in/harmanmanik) | [GitHub](https://github.com/Harman206)
 
 ---
 
