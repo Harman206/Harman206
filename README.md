@@ -16,7 +16,7 @@
 
 I'm a developer focused on the intersection of AI and privacy-preserving technology. I believe the future of AI isn't just about capability it's about building systems that are powerful without being exploitative.
 
-Currently building **Extab** - a privacy-first AI desktop assistant that runs locally, processes data on-device, and gives users full control over their information. My work combines modern frontend frameworks with systems-level programming to create applications that feel magical while respecting fundamental rights to privacy.
+Currently building **Clippy** ([tryclippy.com](https://tryclippy.com)) and **Extab** - AI-powered tools that enhance productivity while respecting user privacy. My work combines modern frontend frameworks with systems-level programming to create applications that feel magical while respecting fundamental rights to privacy.
 
 ---
 
@@ -56,6 +56,16 @@ My work centers on making AI more accessible, private, and useful in daily life:
 ---
 
 ## Projects
+
+### Clippy
+
+[tryclippy.com](https://tryclippy.com) | [TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat)
+
+Currently building Clippy - an AI-powered productivity assistant. More details coming soon.
+
+[Visit Website](https://tryclippy.com)
+
+---
 
 ### Extab - Privacy-First AI Desktop Assistant
 
